@@ -1,29 +1,29 @@
-run -- Start debugged program.
+run - Start debugged program.
 
-break -- Set breakpoint at specified location.
-next -- Step program, proceeding through subroutine calls.
-list -- List specified function or line.
-print -- Print value of expression EXP.
+break - Set breakpoint at specified location.
+next - Step program, proceeding through subroutine calls.
+list - List specified function or line.
+print - Print value of expression EXP.
 
-up -- Select and print stack frame that called this one.
-down -- Select and print stack frame called by this one.
+up - Select and print stack frame that called this one.
+down - Select and print stack frame called by this one.
 
-display -- Print value of expression EXP each time the program stops.
-undisplay -- Cancel some expressions to be displayed when program stops.
+display - Print value of expression EXP each time the program stops.
+undisplay - Cancel some expressions to be displayed when program stops.
 
-backtrace -- Print backtrace of all stack frames, or innermost COUNT frames.
+backtrace - Print backtrace of all stack frames, or innermost COUNT frames.
 
-step -- Step program until it reaches a different source line.
-continue -- Continue program being debugged, after signal or breakpoint.
-finish -- Execute until selected stack frame returns.
+step - Step program until it reaches a different source line.
+continue - Continue program being debugged, after signal or breakpoint.
+finish - Execute until selected stack frame returns.
 
-watch -- Set a watchpoint for an expression.
+watch - Set a watchpoint for an expression.
 
-info breakpoints -- Status of specified breakpoints (all user-settable breakpoints if no argument).
-delete breakpoints -- Delete all or some breakpoints or auto-display expressions.
+info breakpoints - Status of specified breakpoints (all user-settable breakpoints if no argument).
+delete breakpoints - Delete all or some breakpoints or auto-display expressions.
 
-whatis -- Print data type of expression EXP.
+whatis - Print data type of expression EXP.
 
-target record-full -- Log program while executing and replay execution from log.
-reverse-next -- Step program backward, proceeding through subroutine calls.
-set var -- Evaluate expression EXP and assign result to variable VAR.
+target record-full - Log program while executing and replay execution from log.
+reverse-next - Step program backward, proceeding through subroutine calls.
+set var - Evaluate expression EXP and assign result to variable VAR.
