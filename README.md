@@ -6,6 +6,8 @@
       </tr>
       <tr>
          <td></td>
+      </tr>
+      <tr>
          <td></td>
       </tr>
       <tr>
@@ -26,10 +28,13 @@
       </tr>
       <tr>
          <td></td>
+      </tr>
+      <tr>
          <td></td>
       </tr>
-      <td>up</td>
-      <td>Select and print stack frame that called this one.</td>
+      <tr>
+         <td>up</td>
+         <td>Select and print stack frame that called this one.</td>
       </tr>
       <tr>
          <td>down</td>
@@ -37,10 +42,13 @@
       </tr>
       <tr>
          <td></td>
+      </tr>
+      <tr>
          <td></td>
       </tr>
-      <td>display</td>
-      <td>Print value of expression EXP each time the program stops.</td>
+      <tr>
+         <td>display</td>
+         <td>Print value of expression EXP each time the program stops.</td>
       </tr>
       <tr>
          <td>undisplay</td>
@@ -48,17 +56,23 @@
       </tr>
       <tr>
          <td></td>
-         <td></td>
-      </tr>
-      <td>backtrace</td>
-      <td>Print backtrace of all stack frames, or innermost COUNT frames.</td>
       </tr>
       <tr>
          <td></td>
+      </tr>
+      <tr>
+         <td>backtrace</td>
+         <td>Print backtrace of all stack frames, or innermost COUNT frames.</td>
+      </tr>
+      <tr>
          <td></td>
       </tr>
-      <td>step</td>
-      <td>Step program until it reaches a different source line.</td>
+      <tr>
+         <td></td>
+      </tr>
+      <tr>
+         <td>step</td>
+         <td>Step program until it reaches a different source line.</td>
       </tr>
       <tr>
          <td>continue</td>
@@ -70,17 +84,23 @@
       </tr>
       <tr>
          <td></td>
-         <td></td>
-      </tr>
-      <td>watch</td>
-      <td>Set a watchpoint for an expression.</td>
       </tr>
       <tr>
          <td></td>
+      </tr>
+      <tr>
+         <td>watch</td>
+         <td>Set a watchpoint for an expression.</td>
+      </tr>
+      <tr>
          <td></td>
       </tr>
-      <td>info breakpoints</td>
-      <td>Status of specified breakpoints (all user-settable breakpoints if no argument).</td>
+      <tr>
+         <td></td>
+      </tr>
+      <tr>
+         <td>info breakpoints</td>
+         <td>Status of specified breakpoints (all user-settable breakpoints if no argument).</td>
       </tr>
       <tr>
          <td>delete breakpoints</td>
@@ -88,17 +108,23 @@
       </tr>
       <tr>
          <td></td>
-         <td></td>
-      </tr>
-      <td>whatis</td>
-      <td>Print data type of expression EXP.</td>
       </tr>
       <tr>
          <td></td>
+      </tr>
+      <tr>
+         <td>whatis</td>
+         <td>Print data type of expression EXP.</td>
+      </tr>
+      <tr>
          <td></td>
       </tr>
-      <td>target record-full</td>
-      <td>Log program while executing and replay execution from log.</td>
+      <tr>
+         <td></td>
+      </tr>
+      <tr>
+         <td>target record-full</td>
+         <td>Log program while executing and replay execution from log.</td>
       </tr>
       <tr>
          <td>reverse-next</td>
