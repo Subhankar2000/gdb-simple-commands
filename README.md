@@ -4,12 +4,7 @@
          <td>run</td>
          <td>Start debugged program.</td>
       </tr>
-      <tr>
-         <td></td>
-      </tr>
-      <tr>
-         <td></td>
-      </tr>
+      <tr>  <td></td>   <td></td> </tr>
       <tr>
          <td>break</td>
          <td>Set breakpoint at specified location.</td>
